@@ -1,0 +1,54 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 25px;
+}
+h1 {
+  font-family: "Bitter", serif;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+}
+button {
+  font-size: 1.5rem;
+  margin: 10px;
+  border-radius: 15px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+input {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+textarea {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+  width: 250px;
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+}
+.active {
+  background-color: chartreuse;
+}
+.pass {
+  background-color: tomato;
+}
+.center {
+  position: relative;
+  left: 1.5%;
+}
